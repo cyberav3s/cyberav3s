@@ -54,9 +54,5 @@
 
 ### 📊 My GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=cyberav3s&show_icons=true&theme=dark"/>
-</p>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_cyberav3s&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=cyberav3s&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
