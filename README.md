@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yudhishthir</h1>
+<h3 align="center">Software Developer</h3>
 
-<!--
-**cyberav3s/cyberav3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🌱 App Developer, UI/UX Designer
+- 💬 Ask me about **Flutter, Android, Firebase, Python, Django, APIs, Node.js**
+- 📫 How to reach me: **bose.yudhishthir@gmail.com**
+- 📄 Know about my experiences **[here](https://burgedesigns.framer.ai)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://in.linkedin.com/in/burge-design-918159260" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/ninjaxav3s" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="https://x.com/@Cyber_Av3s" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+<a href="https://github.com/cyberav3s" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://behance.net/burgeflow" target="_blank">
+  <img src="https://skillicons.dev/icons?i=behance" height="40"/>
+</a>
+</p>
+
+---
+
+### 🧠 Languages & Frameworks:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dart,python,nodejs,html,css"/>
+</p>
+
+---
+
+### 📚 Frameworks & Libraries:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,django"/>
+</p>
+
+---
+
+### 🛠 Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,firebase,mongodb,sqlite"/>
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=cyberav3s&show_icons=true&theme=dark"/>
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_cyberav3s&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
