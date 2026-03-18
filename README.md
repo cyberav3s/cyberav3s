@@ -4,7 +4,7 @@
 ---
 
 - 🌱 App Developer, UI/UX Designer
-- 💬 Ask me about **Flutter, Android, Firebase, Python, Django, APIs, Node.js**
+- 💬 Ask me about **Flutter, Android, Firebase, Django, APIs**
 - 📫 How to reach me: **bose.yudhishthir@gmail.com**
 - 📄 Know about my experiences **[here](https://burgedesigns.framer.ai)**
 
