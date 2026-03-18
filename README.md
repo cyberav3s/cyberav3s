@@ -33,7 +33,7 @@
 
 ### 🧠 Languages & Frameworks:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=dart,python,nodejs,html,css"/>
+<img src="https://skillicons.dev/icons?i=dart,python,html,css"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ### 🛠 Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,firebase,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,supabase,firebase,mongodb,sqlite"/>
 </p>
 
 ---
